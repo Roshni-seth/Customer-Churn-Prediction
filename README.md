@@ -50,7 +50,7 @@ We trained multiple machine learning models and evaluated their performance:
 
 1️⃣ Clone the Repository:
 
-git clone https://github.com/Roshni-seth/Customer-Churn-Pridiction/Model.git
+git clone [https://github.com/Roshni-seth/Customer-Churn-Pridiction/Model.git](https://github.com/Roshni-seth/Customer-Churn-Prediction/tree/main)
 cd churn-prediction
 
 2️⃣ Install Dependencies:
