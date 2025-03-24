@@ -50,7 +50,7 @@ We trained multiple machine learning models and evaluated their performance:
 
 1️⃣ Clone the Repository:
 
-git clone https://github.com/your-repo/churn-prediction.git
+git clone https://github.com/Roshni-seth/Customer-Churn-Pridiction/Model.git
 cd churn-prediction
 
 2️⃣ Install Dependencies:
@@ -65,7 +65,7 @@ Ensure Churn_Modelling.csv is in the working directory.
 
 jupyter notebook
 
-Open churn_prediction.ipynb and run the cells sequentially.
+Open Model.ipynb and run the cells sequentially.
 
 5️⃣ Analyze Results:
 
