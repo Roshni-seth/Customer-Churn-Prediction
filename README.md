@@ -45,5 +45,29 @@ We trained multiple machine learning models and evaluated their performance:
 ## 🛠️ Tech Stack
 - **Python** (pandas, numpy, sklearn, xgboost, matplotlib, seaborn)
 - **Jupyter Notebook** for experimentation
+  
+## 🏃 Steps to Run the Project
 
+1️⃣ Clone the Repository:
+
+git clone https://github.com/your-repo/churn-prediction.git
+cd churn-prediction
+
+2️⃣ Install Dependencies:
+
+pip install -r requirements.txt
+
+3️⃣ Download Dataset:
+
+Ensure Churn_Modelling.csv is in the working directory.
+
+4️⃣ Run the Jupyter Notebook:
+
+jupyter notebook
+
+Open churn_prediction.ipynb and run the cells sequentially.
+
+5️⃣ Analyze Results:
+
+The trained models and feature importance analysis will be displayed in the notebook.
 
